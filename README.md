@@ -1,5 +1,14 @@
 # Express.js_Weather_website
 
+This a My 1st Express.js project. In this project i learn fetch data fro API , Good folder structure, Ui (handlebars) adding multiple page, 
+
+
+# Use stack:-
+- Express.js -Handlebars(hbs)
+- css
+- JavaScript
+-Bootstrap-4
+- Font-awesome -v-5.10
 
 ## Home Page
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/78966839/180191609-244c9561-d063-489d-b85f-32c883f63b4a.png">
