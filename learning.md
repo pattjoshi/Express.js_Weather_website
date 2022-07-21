@@ -26,12 +26,40 @@ const port = process.env.PORT || 8000;
 
 ---
 
+- Those cond are repited capt inside the partials folder
+
+## Adding anather fole
+
+```
+ {{>navbar}}
+```
+
+- ***
+
 ## listening to the port no at 8000
 
 # start project
 
 ```
 nodemon src/app.js
+```
+
+# Routing in Express.js
+
+```
+app.get("/about", (req, res) => {
+  res.render("about");
+});
+```
+
+# Adding 404 page
+
+```
+app.get("*", (req, res) => {
+  res.render("404page", {
+    errorMsg: "Opps! page not found, Click Here to go back",
+  });
+});
 ```
 
 ## (I learn from Hear)[https://www.youtube.com/watch?v=DiVxOfUEbfk&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8&index=36]
