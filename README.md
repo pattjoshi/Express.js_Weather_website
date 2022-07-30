@@ -21,11 +21,27 @@ This a My 1st Express.js project. In this project i learn fetch data fro API , G
 
 ## About Page
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/78966839/180191804-c4b29e13-a6ed-462d-8a05-eb007079530b.png">
-## 404 Page
+# 404 Page
 <img width="942" alt="image" src="https://user-images.githubusercontent.com/78966839/180191948-3ee4dfb1-06da-41b9-bda2-de44e1940bc3.png">
 
 # vidio
 
 https://user-images.githubusercontent.com/78966839/181934382-537ef240-3174-47a6-8914-c707976d8736.mov
 
+# Installation
+
+## Download project
+```
+git clone https://github.com/pattjoshi/Express.js_Weather_website.git
+```
+
+#### Install Dependancies
+After cloning/downloading the source code, change directory to project folder ( project root folder ). 
+Run following command: 
+`npm install`
+
+- This command will install all the required dependancies.
+
+#### Run the server
+`node src/app.js`
 
