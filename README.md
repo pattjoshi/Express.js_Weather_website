@@ -35,6 +35,9 @@ https://user-images.githubusercontent.com/78966839/181934382-537ef240-3174-47a6-
 git clone https://github.com/pattjoshi/Express.js_Weather_website.git
 ```
 
+## In folder
+`cd Express.js_Weather_website`
+
 #### Install Dependancies
 After cloning/downloading the source code, change directory to project folder ( project root folder ). 
 Run following command: 
@@ -45,3 +48,5 @@ Run following command:
 #### Run the server
 `node src/app.js`
 
+
+### listening to the port no at 8000
